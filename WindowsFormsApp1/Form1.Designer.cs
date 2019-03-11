@@ -44,7 +44,7 @@
             // 
             // txtBxName
             // 
-            this.txtBxName.Location = new System.Drawing.Point(574, 67);
+            this.txtBxName.Location = new System.Drawing.Point(599, 167);
             this.txtBxName.Name = "txtBxName";
             this.txtBxName.Size = new System.Drawing.Size(100, 20);
             this.txtBxName.TabIndex = 1;
@@ -58,7 +58,7 @@
             this.Controls.Add(this.txtBxName);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
             this.ResumeLayout(false);
             this.PerformLayout();
 
